@@ -1,2 +1,2 @@
-# Leibniz-archive
+# Leibniz-Archive
 Leibniz
